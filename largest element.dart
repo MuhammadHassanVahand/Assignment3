@@ -6,6 +6,5 @@ void main() {
       largestNumber = numbers[i];
     }
   }
-  print(numbers.length);
   print(largestNumber);
 }
