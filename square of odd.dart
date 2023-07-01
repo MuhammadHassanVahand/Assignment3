@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() {
   List<int> numbers = [1, 4, 3, 2, 5, 7, 9, 0];
   int sum = 0;
